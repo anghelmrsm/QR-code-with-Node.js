@@ -1,1 +1,1 @@
-# QR-code-with-Node.js
+# QR code scanner/generator with Node.js
